@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/waraich-contracting/static/css/main.aea98993.css",
-    "main.js": "/waraich-contracting/static/js/main.4595b0d0.js",
+    "main.css": "/waraich-contracting/static/css/main.43c472a4.css",
+    "main.js": "/waraich-contracting/static/js/main.e0133c41.js",
     "static/js/453.3fcfee05.chunk.js": "/waraich-contracting/static/js/453.3fcfee05.chunk.js",
+    "static/media/construction4.jpg": "/waraich-contracting/static/media/construction4.e85219e5af94548024a9.jpg",
+    "static/media/construction1.jpg": "/waraich-contracting/static/media/construction1.819b6019b4bbe7dfaa3f.jpg",
+    "static/media/construction3.jpg": "/waraich-contracting/static/media/construction3.e01ec2c00dc0a7c7f04d.jpg",
+    "static/media/construction2.jpg": "/waraich-contracting/static/media/construction2.ae0c3df18c7a754e26cb.jpg",
     "index.html": "/waraich-contracting/index.html",
-    "main.aea98993.css.map": "/waraich-contracting/static/css/main.aea98993.css.map",
-    "main.4595b0d0.js.map": "/waraich-contracting/static/js/main.4595b0d0.js.map",
+    "main.43c472a4.css.map": "/waraich-contracting/static/css/main.43c472a4.css.map",
+    "main.e0133c41.js.map": "/waraich-contracting/static/js/main.e0133c41.js.map",
     "453.3fcfee05.chunk.js.map": "/waraich-contracting/static/js/453.3fcfee05.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aea98993.css",
-    "static/js/main.4595b0d0.js"
+    "static/css/main.43c472a4.css",
+    "static/js/main.e0133c41.js"
   ]
 }
